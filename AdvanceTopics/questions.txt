@@ -1,0 +1,9 @@
+1.What are closures in JS?
+ANS-> function along with its lexical scope bundled together is closures,in other words function along with the reference to its outer environment.
+
+//deep explanation 
+each and every function has access to its outer lexical environment,so when the function is exeecuted in some other scope,it still remembers its outer 
+lexical environment,where it was originally present in the code
+
+
+2.
